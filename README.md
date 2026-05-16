@@ -371,10 +371,9 @@ http://localhost/PlataformaInteligenteRentaBicicletas
 ---
 
 # 👨‍💻 Contributors
-
 <div align="center">
 
-<table>
+ <table>
   <tr>
     <td align="center">
       <img src="Assets/contributors/dhar.jpeg" width="140px;" />
@@ -400,7 +399,7 @@ http://localhost/PlataformaInteligenteRentaBicicletas
       <sub><b>Sivasanjay Raahul</b></sub>
     </td>
   </tr>
-</table>
+ </table>
 
 </div>
 
