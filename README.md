@@ -370,40 +370,6 @@ http://localhost/PlataformaInteligenteRentaBicicletas
 
 ---
 
-# 👨‍💻 Contributors
-<div align="center">
-
- <table>
-  <tr>
-    <td align="center">
-      <img src="Assets/contributors/dhar.jpeg" width="140px;" />
-      <br />
-      <sub><b>Dharshini</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="Assets/contributors/sanjitha.jpeg" width="140px;" />
-      <br />
-      <sub><b>Sanjitha</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="Assets/contributors/senthil.jpeg" width="140px;" />
-      <br />
-      <sub><b>Senthil Kumar</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="Assets/contributors/sivasanjayraahul.jpeg" width="140px;" />
-      <br />
-      <sub><b>Sivasanjay Raahul</b></sub>
-    </td>
-  </tr>
- </table>
-
-</div>
-
----
 
 # 🤝 Contribuciones
 
