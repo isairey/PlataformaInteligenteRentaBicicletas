@@ -188,7 +188,7 @@ Este módulo funciona como administrador principal del sistema.
 # 📂 Estructura del proyecto
 
 ```bash
-CYCLERR/
+PlataformaInteligenteRentaBicicletas/
 │
 ├── Assets/                   # Recursos gráficos
 ├── database/                 # Scripts SQL
@@ -222,7 +222,7 @@ CYCLERR/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/rmdharshini/Project-Cyclerr.git
+git clone https://github.com/isairey/PlataformaInteligenteRentaBicicletas.git
 ```
 
 ---
@@ -254,7 +254,7 @@ cycle
 Importar:
 
 ```bash
-Project-Cyclerr-main/database/cycle.sql
+PlataformaInteligenteRentaBicicletas/database/cycle.sql
 ```
 
 ---
@@ -264,7 +264,7 @@ Project-Cyclerr-main/database/cycle.sql
 Mover proyecto hacia:
 
 ```bash
-xampp/htdocs/Project-Cyclerr-main/
+xampp/htdocs/PlataformaInteligenteRentaBicicletas/
 ```
 
 ---
@@ -274,7 +274,7 @@ xampp/htdocs/Project-Cyclerr-main/
 Abrir:
 
 ```bash
-http://localhost/Project-Cyclerr-main
+http://localhost/PlataformaInteligenteRentaBicicletas
 ```
 
 ---
