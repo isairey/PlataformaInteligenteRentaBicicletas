@@ -308,40 +308,6 @@ http://localhost/PlataformaInteligenteRentaBicicletas
 
 ---
 
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🚴 Página principal
-![Home](https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?q=80&w=1200&auto=format&fit=crop)
-
-### 🔐 Inicio de sesión
-![Login](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200&auto=format&fit=crop)
-
-### 🚲 Gestión de bicicletas
-![Bikes](https://images.unsplash.com/photo-1485965120184-e220f721d03e?q=80&w=1200&auto=format&fit=crop)
-
-### 📅 Sistema de renta
-![Rental](https://images.unsplash.com/photo-1511994298241-608e28f14fde?q=80&w=1200&auto=format&fit=crop)
-
-### 📊 Dashboard administrativo
-![Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop)
-
-### 👥 Gestión de usuarios
-![Users](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop)
-
-### 🔄 Cyclerr Pass On
-![PassOn](https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=1200&auto=format&fit=crop)
-
-### 📍 Estaciones de bicicletas
-![Stations](https://images.unsplash.com/photo-1508975551575-810f0d6e8d0d?q=80&w=1200&auto=format&fit=crop)
-
-</div>
-
----
-
 # 🧠 Objetivos del proyecto
 
 ## 🎯 Aprendizaje y administración
